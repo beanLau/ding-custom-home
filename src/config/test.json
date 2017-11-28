@@ -1,0 +1,9 @@
+{ 
+    "DINTALK_API": true, 
+    "corpId": "dinga04ad0aa6f805b3435c2f4657eb6378f",
+    "AUTH_URL": "http://123.56.120.20:8090/getSign",
+    "APP_URL":  "http://hx.gbtong.com/",
+    "API_URL": "http://123.56.120.20:8080/",
+    "MOCK_URL": "http://116.62.180.21:30003/",
+    "AgentID": 109548673
+}

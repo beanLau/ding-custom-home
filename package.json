@@ -1,0 +1,43 @@
+{
+    "name": "customhome",
+    "author": "dingyou",
+    "version": "1.0.0",
+    "description": "An awesome project",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "scripts": {
+        "start": "nowa server -p 3000 -e index.js",
+        "build": "nowa build -e index.js"
+    },
+    "homepage": "",
+    "license": "MIT",
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "dependencies": {
+        "antd-mobile": "^1.0.5",
+        "babel-polyfill": "^6.23.0",
+        "natty-storage": "^1.1.2",
+        "react": "^15.4.2",
+        "react-dom": "^15.4.2",
+        "react-keeper": "^2.0.6",
+        "natty-fetch": "^2.4.5",
+        "react-router": "^4.1.1",
+        "unity-api": "^2.0.1",
+        "refast": "^1.1.0",
+        "svg-sprite-loader": "^0.3.0",
+        "whatwg-fetch": "^2.0.3"
+    },
+    "devDependencies": {
+        "babel-plugin-import": "~1.0.1",
+        "babel-preset-stage-0": "^6.24.1",
+        "nowa": "^1",
+        "nowa-build": "^1",
+        "nowa-server": "^1.17.0",
+        "postcss-cssnext": "^3.0.2",
+        "postcss-loader": "^2.0.6",
+        "postcss-pxtorem": "^3.3.1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "customhome",
+    "options": {
+        "template": "C:\\Users\\dingyou\\.nowa-gui\\template\\dingyou-dingtalk-mobile-v_3",
+        "npm": "http://registry.npm.taobao.org",
+        "vars": {
+            "ENV": "develop"
+        },
+        "buildvars": {
+            "ENV": [
+                "test"
+            ]
+        },
+        "alias": {
+            "api": "api",
+            "assets": "assets",
+            "config": "config",
+            "image": "assets/img",
+            "icon": "assets/icon",
+            "js": "assets/js",
+            "components": "components",
+            "dings": "dings",
+            "pages": "pages",
+            "utils": "utils"
+        }
+    }
+}
