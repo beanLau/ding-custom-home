@@ -1,8 +1,12 @@
 # ding-custom-home
-钉钉自定义主页demo
+dingding custom home demo
+
+technology stack react+
+[antd](https://mobile.ant.design/components/flex-cn/)
++[react-keeper](https://github.com/vifird/react-keeper)
++[no-flux](https://github.com/eJayYoung/no-flux)
 
 # install
-colne代码
 
 npm install
 
