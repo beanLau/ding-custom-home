@@ -3,5 +3,9 @@
 
 # install
 colne代码
-npm i
+
+npm install
+
 npm start
+
+
